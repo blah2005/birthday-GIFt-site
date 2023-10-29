@@ -8,7 +8,7 @@ body {
     align-items: center;
 }
 h1 {
-    text-shadow: 2px 2px 1px black
+    text-shadow: 2px 2px 1px black;
 }
 h2, h3, h4,p {
     text-shadow: 0px 0px 3px black;
@@ -16,7 +16,7 @@ h2, h3, h4,p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 3px solid brown
+    border: 3px solid brown;
     
 }
 h4{
@@ -24,7 +24,7 @@ h4{
   background: maroon;
    padding: 4px;
    border-radius: 9px;
-   margin: 1px
+   margin: 1px;
 }
 
 .gift-img{
